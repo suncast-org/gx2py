@@ -28,7 +28,8 @@ We highly encourage contributors to include a top-level Jupyter notebook demonst
 
 ## Disclaimer
 
-Please note that content submitted to this repository, demonstrating potential implementations, will only be reviewed by the administration for relevance to the SUNCAST collaboration's scope. If contributors may choose to include links to independently managed repositories, the administrators of this repository cannot warrant the intended functionality of these examples. Moreover, the proposed approaches might not be eventually adopted for inclusion in the official versions of the fully vetted functional SUNCAST repositories.
+Please note that content submitted to this repository, demonstrating potential implementations, will only be reviewed by the administration for relevance to the SUNCAST collaboration's scope. If contributors choose to include links to independently managed repositories, it is strongly recommended that the linked submodules have appropriate licenses permitting the reproduction or inclusion of their code by other contributors without the need for explicit permission from the original contributors. The administrators of this repository cannot warrant the intended functionality of these examples. Moreover, the proposed approaches might not be eventually adopted for inclusion in the official versions of the fully vetted functional SUNCAST repositories.
+
 
 ## Getting Started
 
