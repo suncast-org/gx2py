@@ -26,6 +26,10 @@ To maintain a cohesive and collaborative environment, please follow these guidel
 
 We highly encourage contributors to include a top-level Jupyter notebook demonstrating the proposed functionality. Additionally, providing a reasonable-sized test dataset within the repository helps users better understand and test the code examples.
 
+## Disclaimer
+
+Please note that content submitted to this repository, demonstrating potential implementations, will only be reviewed by the administration for relevance to the SUNCAST collaboration's scope. If contributors may choose to include links to independently managed repositories, the administrators of this repository cannot warrant the intended functionality of these examples. Moreover, the proposed approaches might not be eventually adopted for inclusion in the official versions of the fully vetted functional SUNCAST repositories.
+
 ## Getting Started
 
 To get started, clone this repository and explore the existing examples. You can then either submit your code directly or set up a linked submodule on your GitHub account.
@@ -35,4 +39,5 @@ We appreciate your contributions and look forward to building a robust collectio
 Feel free to reach out if you have any questions or need assistance with the contribution process.
 
 Happy coding!
+
 
