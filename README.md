@@ -1,6 +1,6 @@
 # gx2py Repository
 
-Welcome to the gx2py repository! This platform is designed to gather Python code examples that demonstrate the implementation of various GX Simulator functionalities originally implemented in IDL. The goal is to provide a collaborative space for contributors to share their expertise and collectively achieve the objectives of the SUNCAST collaboration.
+Welcome to the gx2py repository! This platform is designed to gather Python code examples that demonstrate the implementation of various  [GX Simulator](https://github.com/Gelu-Nita/GX_SIMULATOR) and [GSFIT](https://github.com/Gelu-Nita/GSFIT) functionalities, originally implemented in IDL. The goal is to provide a collaborative space for contributors to share their expertise and collectively achieve the objectives of the SUNCAST collaboration.
 
 ## How to Contribute
 
@@ -34,10 +34,11 @@ Please note that content submitted to this repository, demonstrating potential i
 
 To get started, clone this repository and explore the existing examples. You can then either submit your code directly or set up a linked submodule on your GitHub account.
 
-We appreciate your contributions and look forward to building a robust collection of Python implementations for GX Simulator functionalities. Together, let's propel the SUNCAST collaboration forward!
+We appreciate your contributions and look forward to building a robust collection of Python implementations for GX Simulator and GSFIT functionalities. Together, let's propel the SUNCAST collaboration forward!
 
 Feel free to reach out if you have any questions or need assistance with the contribution process.
 
 Happy coding!
+
 
 
