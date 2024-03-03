@@ -1,0 +1,2 @@
+This is a repository intended to collect Python code examples suggesting how various GX Simulator functionalities implemented in IDL could be achieved in Python,
+Anyone willing to contribute to achieving the goals of the SUNCAST collaboration is encourege to requestcommits to this collection of repositories either as subfolder in this repository or as a linked submodule residing on the contributor's GiHub account.  
