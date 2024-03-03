@@ -36,5 +36,3 @@ Feel free to reach out if you have any questions or need assistance with the con
 
 Happy coding!
 
-[Your Name]
-
