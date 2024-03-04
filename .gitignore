@@ -1,0 +1,6 @@
+*.sav
+*.fits
+*.zip
+*.pha
+*.rsp2
+__pycache__/
