@@ -1,10 +1,10 @@
 # gx2py Repository
 
-Welcome to the gx2py repository! This platform is designed to gather Python code examples that demonstrate the implementation of various  [GX Simulator](https://github.com/Gelu-Nita/GX_SIMULATOR) and [GSFIT](https://github.com/Gelu-Nita/GSFIT) functionalities, originally implemented in IDL. The goal is to provide a collaborative space for contributors to share their expertise and collectively achieve the objectives of the SUNCAST collaboration.
+Welcome to the gx2py repository! This platform is designed to gather Python code examples that demonstrate the implementation of various [GX Simulator](https://github.com/Gelu-Nita/GX_SIMULATOR) and [GSFIT](https://github.com/Gelu-Nita/GSFIT) functionalities, originally implemented in IDL. The goal is to provide a collaborative space for contributors to share their expertise and collectively achieve the objectives of the SUNCAST collaboration.
 
 ## How to Contribute
 
-We encourage individuals passionate about advancing the goals of the SUNCAST collaboration to contribute to this repository. You can do so in two ways:
+We encourage individuals passionate about advancing the goals of the SUNCAST collaboration to contribute to this repository. You can do so in three ways:
 
 ### 1. Subfolders in this Repository
 
@@ -13,6 +13,10 @@ Feel free to submit your Python code examples directly as subfolders within this
 ### 2. Linked Submodules on Your GitHub Account
 
 For a more dynamic and self-updating approach, consider submitting your code as a linked submodule residing on your GitHub account. This enables contributors to update their code without the need for frequent pull requests.
+
+### 3. Gists with Descriptive Markdown Files
+
+Alternatively, you can contribute by creating a gist with a descriptive markdown file. In this markdown file, include a link and a short description of the purpose of your contributed gist. Name the markdown file something concise yet descriptive, such as `contribution_guide.md`. Initiate a pull request for the markdown document to be inserted in the root of the gx2py repository.
 
 ## Contribution Guidelines
 
@@ -30,16 +34,12 @@ We highly encourage contributors to include a top-level Jupyter notebook demonst
 
 Please note that content submitted to this repository, demonstrating potential implementations, will only be reviewed by the administration for relevance to the SUNCAST collaboration's scope. If contributors choose to include links to independently managed repositories, it is strongly recommended that the linked submodules have appropriate licenses permitting the reproduction or inclusion of their code by other contributors without the need for explicit permission from the original contributors. The administrators of this repository cannot warrant the intended functionality of these examples. Moreover, the proposed approaches might not be eventually adopted for inclusion in the official versions of the fully vetted functional SUNCAST repositories.
 
-
 ## Getting Started
 
-To get started, clone this repository and explore the existing examples. You can then either submit your code directly or set up a linked submodule on your GitHub account.
+To get started, clone this repository and explore the existing examples. You can then either submit your code directly, set up a linked submodule on your GitHub account, or create a gist with a descriptive markdown file.
 
 We appreciate your contributions and look forward to building a robust collection of Python implementations for GX Simulator and GSFIT functionalities. Together, let's propel the SUNCAST collaboration forward!
 
 Feel free to reach out if you have any questions or need assistance with the contribution process.
 
 Happy coding!
-
-
-
